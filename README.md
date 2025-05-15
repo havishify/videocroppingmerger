@@ -1,2 +1,11 @@
 # videocroppingmerger
-## SIMPLE video edit desktop app 
+
+## Summary
+- SIMPLE video edit desktop app
+- ...
+
+## Features
+- ...
+
+## Credit
+- https://github.com/orioncactus/pretendard
